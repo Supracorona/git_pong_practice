@@ -7,4 +7,4 @@ I need to master this so I can be good in Git pong
 
 Don't forget to add before commiting.
 
-Dejan was here now.
+Dejan was here now. Test 2.
